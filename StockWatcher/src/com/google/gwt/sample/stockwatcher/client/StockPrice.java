@@ -37,10 +37,11 @@ public class StockPrice {
 	  public void setPrice(double price) {
 	    this.price = price;
 	  }
-	  
+	  MY ANACONDA DONT
 
 	  public void setChange(double change) {
 	    this.change = change;
 	  }
+	  WANT NONE
 
 }
