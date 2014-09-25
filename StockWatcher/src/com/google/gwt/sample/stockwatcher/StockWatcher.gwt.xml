@@ -7,7 +7,7 @@
   "http://google-web-toolkit.googlecode.com/svn/tags/2.6.0/distro-source/core/src/gwt-module.dtd">
 <module rename-to='stockwatcher'>
   <!-- Inherit the core Web Toolkit stuff.                        -->
-  <inherits name='com.google.gwt.user.User'/>
+  <!-- <inherits name='com.google.gwt.user.User'/>                -->
 
   <!-- Inherit the default GWT style sheet.  You can change       -->
   <!-- the theme of your GWT application by uncommenting          -->
@@ -15,7 +15,7 @@
   <!-- inherits name='com.google.gwt.user.theme.clean.Clean'/>	  -->
   <!-- <inherits name='com.google.gwt.user.theme.standard.Standard'/> -->
   <!-- <inherits name='com.google.gwt.user.theme.chrome.Chrome'/> -->
-  <inherits name='com.google.gwt.user.theme.dark.Dark'/>    
+  <!-- <inherits name='com.google.gwt.user.theme.dark.Dark'/>     -->   
 
   <!-- Other module inherits                                      -->
 
