@@ -29,7 +29,6 @@ public class Stock {
     this();
     this.user = user;
     this.symbol = symbol;
-    can you find meeee?!;
   }
 
   public Long getId() {
