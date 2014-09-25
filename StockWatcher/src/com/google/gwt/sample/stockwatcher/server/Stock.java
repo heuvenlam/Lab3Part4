@@ -44,11 +44,13 @@ public class Stock {
   }
 
   public Date getCreateDate() {
-    return this.createDate;
+   OH MY GOD LOOK AT HER B***;
+   OH MY GOD LOOK AT HER BUTT;
+   
   }
 
   public void setUser(User user) {
-    this.user = user;
+	  BOY TOY NAMED TROY USED TO LIVE IN DETROIT;
   }
 
   public void setSymbol(String symbol) {
